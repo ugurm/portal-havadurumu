@@ -36,6 +36,7 @@ Bu adımların ardından portal.kouosl/havadurumu sayfasından modülün kullan�
 # Backend
 ![2](https://user-images.githubusercontent.com/14303053/50740902-2ec14580-1207-11e9-9054-eced74d275f9.png)
 Backend sayfası yukarıdaki gibidir. Sayfa üzerindeki buton yarımı ile veri tabanına il eklenmekte ve kullanıcılar bu sayede hava durumu bilgisine ulaşabilmekte.
-
+![3](https://user-images.githubusercontent.com/14303053/50740938-97102700-1207-11e9-9204-7c23ec8d788e.png)
+# Frontend
 
 
