@@ -43,4 +43,9 @@ Kullanıcılar http://portal.kouosl/havadurumu/fav adresinden hava durumu tahmin
 
 Sayfa üzerinde illeri seçmek için "dropDownList" kullanılmıştır. Bu öğe üzerinde yazan iller veri tabanından çekilmektedir.
 ![5](https://user-images.githubusercontent.com/14303053/50741031-02a6c400-1209-11e9-9e7a-29bfb86c41eb.png)
-
+# Çeviri
+![cev](https://user-images.githubusercontent.com/14303053/50741112-c3c53e00-1209-11e9-8cbb-9e3c3cff80d1.png)
+Yukarıda ekran görüntüsü bulunan dosya "portal-havadurumu\messages\tr-TR" dizini içerisinde oluşturulmuştur. Örnek kullanım aşağıdaki kodda gösterilmiştir.
+```
+Module::t('havadurumu','Hava durumu Modülü Backend Sayfası') 
+````
