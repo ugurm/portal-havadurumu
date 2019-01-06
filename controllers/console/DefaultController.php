@@ -15,4 +15,8 @@ class DefaultController extends \kouosl\base\controllers\console\BaseController
     {
         return $this->render('_index');
     }
+	public function actionDeneme()
+    {
+        echo 'deneme';
+    }
 }
