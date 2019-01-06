@@ -29,7 +29,11 @@ Daha sonra "migration" dosyası ile gerekli veri tabanı kurulumu sağlanır ve 
 ```
 php yii migrate --migrationPath=@vendor/kouosl/portal-havadurumu/migrations
 ```
-Bu adımların ardından portal.kouosl/havadurumu sayfasından modülün kullanıcı arayüzüne portal.kouosl/admin/havadurumu sayfasından ise yönetici ekranına ulaşım sağlanabilmektedir
+Veri tabanına işaretli tablolar eklenmektedir.
 ![1](https://user-images.githubusercontent.com/14303053/50740870-b3f82a80-1206-11e9-9b1a-c7e4a8b83fcc.png)
+
+Bu adımların ardından portal.kouosl/havadurumu sayfasından modülün kullanıcı arayüzüne portal.kouosl/admin/havadurumu sayfasından ise yönetici ekranına ulaşım sağlanabilmektedir.
+# Backend
+
 
 
