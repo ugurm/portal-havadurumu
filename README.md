@@ -40,6 +40,7 @@ Backend sayfası yukarıdaki gibidir. Sayfa üzerindeki buton yarımı ile veri 
 # Frontend
 Kullanıcılar http://portal.kouosl/havadurumu/fav adresinden hava durumu tahminlerine ulaşabilmektedirler. Bu sayfanın ekran görüntüsü aşağıda bulunmaktadır.
 ![4](https://user-images.githubusercontent.com/14303053/50740971-100f7e80-1208-11e9-905a-4d371a977223.png)
+
 Sayfa üzerinde illeri seçmek için "dropDownList" kullanılmıştır. Bu öğe üzerinde yazan iller veri tabanından çekilmektedir.
 ![5](https://user-images.githubusercontent.com/14303053/50741031-02a6c400-1209-11e9-9e7a-29bfb86c41eb.png)
 
